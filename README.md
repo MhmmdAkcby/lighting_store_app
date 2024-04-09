@@ -1,16 +1,11 @@
 # lighting_store_app
 
-A new Flutter project.
+In this project, I made a simple basic flutter application theme.
 
-## Getting Started
+## Views from my project.
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/MhmmdAkcby/lighting_store_app/assets/129775174/481b4190-55b2-4b7e-9914-d1e721c70146)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/MhmmdAkcby/lighting_store_app/assets/129775174/94fa934b-cbaa-47c7-b27d-9a3d410594f3
